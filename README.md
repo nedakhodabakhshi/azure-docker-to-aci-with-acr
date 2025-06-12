@@ -155,15 +155,3 @@ az group delete --name myResourceGroup --yes --no-wait
 
 A live Nano-based web dashboard running securely on Azure Container Instance, pulling the image directly from your private ACR using managed identity.
 
----
-
-## 💡 Next Steps
-
-* Add CI/CD pipeline via GitHub Actions or Azure DevOps
-* Enable HTTPS with custom domain
-* Migrate to AKS or App Service for scaling
-
----
-
-✅ **Maintained by:** `khodabakhshi.neda@gmail.com`
-📁 Feel free to fork & enhance!
